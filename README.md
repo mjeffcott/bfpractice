@@ -1,4 +1,4 @@
-bfpractice
-==========
-
-Various brainfuck programs written for practice
+- *countdown.bf* counts down from 10
+- *printchar.bf* gets an ascii character from stdin and returns brainfuck code to print that character
+- *printstr.bf* gets a string of ascii characters ending in a linefeed from stdin and returns brainfuck code to print that character
+- *multiply.bf* interactively gets two integers and returns their product
